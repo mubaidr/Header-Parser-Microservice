@@ -8,7 +8,7 @@
     "dev": "nodemon app/index.js"
   },
   "dependencies": {
-    "express": "~4.15.2"
+    "express": "~4.15.5"
   },
   "devDependencies": {
     "eslint": "^4.4.1",
